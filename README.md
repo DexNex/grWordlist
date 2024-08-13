@@ -45,3 +45,44 @@ Produce a list with custom arrangements of numbers, letters, and special charact
 
  
 - **Spaces:** Determines if spaces are included between words.
+
+
+---
+
+**Usage:**
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/DexNex/grWordlist.git
+   ```
+
+2. Change to the repository directory:
+
+   ```bash
+   cd grWordlist
+   ```
+
+3. Make the installation script executable:
+
+   ```bash
+   chmod 777 install.sh
+   ```
+
+4. Run the installation script:
+
+   ```bash
+   sh install.sh
+   ```
+
+5. To use the tool in Indonesian, run:
+
+   ```bash
+   python3 grWordlist-id.py
+   ```
+
+6. To use the tool in English, run:
+
+   ```bash
+   python3 grWordlist-en.py
+   ```
