@@ -66,7 +66,7 @@ Produce a list with custom arrangements of numbers, letters, and special charact
 3. Make the installation script executable:
 
    ```bash
-   chmod 777 install.sh
+   chmod +× install.sh
    ```
 
 4. Run the installation script:
