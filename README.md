@@ -3,7 +3,7 @@
 
 
 **Instagram: @one.persen.man**
-
+-
 V-1.0(13-08-2024)
 
 
@@ -20,7 +20,9 @@ This tool offers the following **powerful features**:
 
 
 • **Generate a RANDOM Number WORDLIST**  
-   Create a list of numbers within a specified range. For example, for the range *1-100*, the output will be:1 2 3 4 ... 100• **Generate a CUSTOM Number WORDLIST**  
+   Create a list of numbers within a specified range. For example, for the range *1-100*, the output will be:1 2 3 4 ... 100
+   
+• **Generate a CUSTOM Number WORDLIST**  
 Generate a list of custom number combinations. For example, if the input is *556*, the output will include variations such as:556 655 565 ...
 
 
@@ -35,11 +37,11 @@ Produce a list with custom arrangements of numbers, letters, and special charact
 
 - **Numbers:** `(1234567890)`
 
-- 
+
 - **Letters:** `(abcdefghijklmopqrstuvwxyz)`
 
-- 
+
 - **Characters:** `@#$*&+()/?;`
 
-- 
+ 
 - **Spaces:** Determines if spaces are included between words.
