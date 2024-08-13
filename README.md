@@ -1,11 +1,14 @@
 # grWordlist
 **by DEXNEX**
 
+V-1.0(13-08-2024)
+
+
 **Instagram: @one.persen.man**
+
 
 A tool to create WORDLIST
 
-V-1.0(13-08-2024)
 
 ## Features
 
