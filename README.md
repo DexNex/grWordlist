@@ -15,9 +15,9 @@
 
 A tool to create WORDLIST
 
-•English
+**•English**
 
-•Indonesia
+**•Indonesia**
 
 
 This tool offers the following **powerful features**:
