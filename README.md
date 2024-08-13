@@ -2,7 +2,7 @@
 **by DEXNEX**
 
 **Instagram: @one.persen.man**
-_______
+
 A tool to create WORDLIST
 V-1.0(13-08-2024)
 
