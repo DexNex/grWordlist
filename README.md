@@ -70,7 +70,7 @@ Produce a list with custom arrangements of numbers, letters, and special charact
 3. Make the installation script executable:
 
    ```bash
-   chmod +× install.sh
+   chmod +x install.sh
    ```
 
 4. Run the installation script:
